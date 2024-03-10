@@ -17,7 +17,6 @@ section {
 .sec-title {
     color: black;
     font-size: 40px;
-
 }
 
 .sec-p {
@@ -93,10 +92,47 @@ header .desc {
 
 hr{
     width: 60%;
-    margin: auto;
+    margin: 10px auto;
 }
 
+.donate-plan{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+    text-align: left;
 
+}
+
+.donate-plan img{
+    width: 53px;
+}
+
+.donate-plan h2{
+    margin-top: 15px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.donate-plan p{
+    color: gray;
+    margin-top: 15px;
+}
+
+.plan-1{
+    padding: 45px 15px;
+    border-radius: 5px;
+    background-color: #4f9da638;
+}
+.plan-2{
+    padding: 45px 15px;
+    border-radius: 5px;
+    background-color: #ff595938;
+}
+.plan-3{
+    padding: 45px 15px;
+    border-radius: 5px;
+    background-color: #e4711367;
+}
 
 
 
