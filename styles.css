@@ -7,8 +7,8 @@
 
 /* gloval styles */
 section {
-    padding-top: 70px;
-    max-width: 90%;
+    padding-top: 100px;
+    max-width: 80%;
     width: 100%;
     margin: auto;
     text-align: center;
@@ -113,10 +113,9 @@ hr{
     font-weight: 600;
 }
 
-.donate-plan p{
-    color: gray;
+/* .donate-plan p{
     margin-top: 15px;
-}
+} */
 
 .plan-1{
     padding: 45px 15px;
@@ -133,6 +132,67 @@ hr{
     border-radius: 5px;
     background-color: #e4711367;
 }
+
+.depend-lives{
+    display: flex;
+    gap: 40px;
+    text-align: left;
+
+}
+
+.depend-lives img{
+    width: 477px;
+    margin-right: 60px;
+
+}
+
+footer{
+    height: 100dvh;
+}
+
+.suvive-section{
+    display: flex;
+}
+
+
+
+.suvive-need{
+display: flex;
+text-align: left;
+gap: 40px;
+margin-right: 60px;
+
+}
+.suvive-need img{
+    width: 477px;
+}
+
+.suvive-need button{
+
+    margin-right: auto ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
